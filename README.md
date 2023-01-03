@@ -1,5 +1,5 @@
 # 🟡 JavaScript-TIL
-### [(1) Node.js]()
+### [(1) Node.js](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 > * ##### Chrome V8 JavaScript 엔진으로 빌드된 JavaScript 런타임 
 >
@@ -9,9 +9,10 @@
 >
 >   🤔 왜 Node.js 를 배워야 할까? 
 >
->   ​	브라우저를 동작하는 웹 페이지를 제작을 할 때, 제작이라는 것은 컴퓨터에서 진행을 하는 것이고 그 컴	퓨터에서 다양한 역할들을 수행하기 위해 Node.js의 도움을 받아야 한다. 
+>    브라우저를 동작하는 웹 페이지를 제작을 할 때, 제작이라는 것은 컴퓨터에서 진행을 하는 것이고 그 컴퓨터에서 다양한 역할들을 수행하기 위해 Node.js의 도움을 받아야 한다.
 
-![image-20230103210836842](../imges/README/image-20230103210836842.png)
+
+
 
 ##### ◼ Node.js 설치 후 확인하기 (npm도 같이 설치 됨)
 
@@ -23,15 +24,13 @@ node --version
 node -v
 ```
 
----
 
 
-
-### (2) npm 
+### [(2) npm ](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 > * ##### NPM (Node Package Manager)은 전 세계의 개발자들이 만든 다양한 기능(패키지, 모듈)들을 관리 
 
-![image-20230103210938359](../imges/README/image-20230103210938359.png)
+![image](https://user-images.githubusercontent.com/99783474/210356952-f09bb595-afb3-4645-adf0-542d83fca0b2.png)
 
 
 
@@ -39,7 +38,7 @@ node -v
 
 
 
-### (3) NPM 프로젝트 시작, package.json
+### [ (3) NPM 프로젝트 시작, package.json](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 ##### ◼ npm 버전 확인하기 
 
