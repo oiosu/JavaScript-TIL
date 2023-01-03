@@ -92,7 +92,7 @@ npm install parcel --save-dev
 >   npm install -D parcel 
 >   ```
 
-![image-20230103174150182](../imges/README/image-20230103174150182.png)
+![image](https://user-images.githubusercontent.com/99783474/210357154-b097b409-81cc-4078-9b20-b2eee0f25ee2.png)
 
 > ### devDependencies (개발 의존성)
 >
@@ -104,7 +104,7 @@ npm install parcel --save-dev
 >
 > * ##### 우리가 만들 하나의 프로젝트가 외부의 개발자가 만들어 놓은 패키지에 의존해서 동작을 하고 있다는 의미이다. 
 
-![image-20230103174542211](../imges/README/image-20230103174542211.png)
+![image](https://user-images.githubusercontent.com/99783474/210357178-de59c9e1-f0dd-4444-81c8-54cfa08f65f2.png)
 
 > parcel의 정보를 담고 있는 파일이 package.json이라는 파일이고, 우리의 프로젝트도 하나의 패키지 라는 개념이기 떄문에 root 경로에 package.json 파일이 있는것이다. 
 
@@ -122,7 +122,6 @@ npm install parcel --save-dev
 
 
 
----
 
 
 
@@ -136,7 +135,7 @@ npm install parcel --save-dev
 npm run dev
 ```
 
-![image-20230103185448571](../imges/README/image-20230103185448571.png)
+![image](https://user-images.githubusercontent.com/99783474/210357385-704b93a0-fb89-477c-8add-52ff0549f233.png)
 
 
 
@@ -158,7 +157,7 @@ const user: User = {
 
 > * ##### 에러메시지 발생 : 현재 index.html 파일에서 main.js 파일을 가져오려고 하는데 파일을 찾을 수 없다
 >
-> ![image-20230103190112918](../imges/README/image-20230103190112918.png)
+> ![image](https://user-images.githubusercontent.com/99783474/210357407-da7d2aaa-5b7b-4766-a31e-a21907243502.png)
 >
 > * ##### 해결 방법 : js부분을 ts로 수정한다. 
 >
@@ -174,13 +173,13 @@ const user: User = {
 >
 > * 브라우저에서 동작 시키는 것이 목적이기 떄문에 줄바꿈, 띄어쓰기 등 필요가 없다 따라서 다음과 같이 코드가 인라인 형식으로 보여짐을 알 수 있다. 
 >
->   ![image-20230103203249897](../imges/README/image-20230103203249897.png)
+>   ![image](https://user-images.githubusercontent.com/99783474/210357456-8458f512-96f7-4860-858b-85cf3ef045df.png)
 >
 > * 난독화가 되었다. 
 >
 > * ##### 난독화가 된 이유 : npm run build의 build가 포함이되어져있기 때문 
 >
->   ![image-20230103203850561](../imges/README/image-20230103203850561.png)
+>   ![image](https://user-images.githubusercontent.com/99783474/210357483-46bf3265-d9a9-4c4d-ac52-ce3e48673d74.png)
 
 
 
@@ -194,7 +193,7 @@ const user: User = {
 
 #####  프로젝트가 개발되는 특정한 시점 상태에 의미를 부여하여 숫자를 매기는 방법이다. 
 
-![image-20230103204758620](../imges/README/image-20230103204758620.png)
+![image](https://user-images.githubusercontent.com/99783474/210357516-ea536ef4-bf3d-41b9-826f-5437fe74257e.png)
 
 #### ✅ Major 4
 
