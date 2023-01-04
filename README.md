@@ -240,28 +240,6 @@ const user: User = {
 
 
 
-### 원시형 - String, Number, Boolean, null, undefined
+### [ 원시형 - String, Number, Boolean, null, undefined](https://github.com/oiosu/JavaScript-TIL/blob/master/02_JS%EB%8D%B0%EC%9D%B4%ED%84%B0/02.%20JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
 
-#### ◼ String 
 
-```javascript
-const string1 = "Hello"
-const string2 = 'Hello'
-const string3 = `Hello`
-```
-
-> `" "` 와 `' '` 는 한 가지를 선택하여 코드를 작성하면 된다. 
->
-> 하지만 ![image-20230104115603235](../imges/README/image-20230104115603235.png) 표시는 선택의 개념보다는 `보관` 이라는, 어떠한 데이터를 문자데이터 내부에 채워 넣는 용도로 사용할 수 있다. 
->
-> 보관 처리를 할때는 `Hello ${}` 달러기호와 중괄호를 이용하여 사용 할 수 있고, 중괄호 안에 어떠한 데이터를 채워줄 수 있다. 
->
-> **🤔 string1 을 채워넣어준다면?** 
->
-> ```javascript
-> const string3 = `Hello ${string1} ?!`
-> ```
->
-> ![image-20230104120025666](../imges/README/image-20230104120025666.png)
->
-> 📚 이렇게, ` 기호를 통해서 문자 데이터를 만드는 방식을  **템플릿 리터럴** 이라고 한다. 
