@@ -1,8 +1,8 @@
-4163
+4164
 70C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\package.json133172738495394673 0
 113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133172737856405022 0
 119C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\orientation-sensor.js133172737894918416 0
-65C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\main.js133172856691392504 0
+65C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\main.js133172880989721244 0
 102C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\cosmiconfig\dist\loaders.js.map133172737868344994 0
 111C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\pdf-viewer.js133172737895197676 0
 79C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\css-what133172737866355162 1
@@ -14,10 +14,26 @@
 101C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\svgo\plugins\removeComments.js133172737871137127 0
 115C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\core\test\fixtures\duplicate-targets133172737881417392 1
 91C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\terser\dist\.gitkeep133172737852919186 0
-62C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist133172858289419109 1
+62C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist133172880990189988 1
 111C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lightningcss-win32-x64-msvc\package.json133172737852909219 0
 114C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\workers\lib\process\ProcessChild.js133172737867916124 0
 109C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133172737854899041 0
+102C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\regions\DO.js133172737884723796 0
+88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\parcel\src\cli.js133172737859259007 0
+94C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\source-map\package.json133172737852759615 0
+128C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133172737873986973 0
+79C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\get-port133172737858040952 1
+77C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@lezer133172737834398725 1
+92C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\dotenv-expand\LICENSE133172737857073534 0
+88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@msgpackr-extract133172737921791241 1
+97C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\nth-check\lib\esm\index.js133172737857542272 0
+86C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\posthtml-render133172737858429915 1
+87C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\svgo\lib\svgo.js133172737874445743 0
+89C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\utility-types\dist133172737866559745 1
+117C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\full-chromium-versions.js133172737856355147 0
+106C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\core\test\fixtures\main-mjs133172737881886145 1
+113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css3-tabsize.js133172737883806257 0
+68C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\.gitignore133172196266441948 0
 68C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\index.html133172741035283494 0
 108C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@swc\helpers\lib\_write_only_error.js133172737875034169 0
 91C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\json5\lib\unicode.js133172737863138618 0
@@ -59,15 +75,6 @@
 123C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133172737865058636 0
 76C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\json5133172737864530055 1
 82C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@jridgewell133172737834598329 1
-102C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\regions\DO.js133172737884723796 0
-88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\parcel\src\cli.js133172737859259007 0
-94C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\source-map\package.json133172737852759615 0
-128C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133172737873986973 0
-79C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\get-port133172737858040952 1
-77C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@lezer133172737834398725 1
-92C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\dotenv-expand\LICENSE133172737857073534 0
-88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@msgpackr-extract133172737921791241 1
-97C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\nth-check\lib\esm\index.js133172737857542272 0
 83C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\svgo\plugins133172737873737636 1
 114C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node133172737870728228 0
 128C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133172737873837367 0
@@ -164,8 +171,6 @@
 88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\acorn\dist\bin.js133172737861213769 0
 108C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\source-map\dist\types.js.flow133172737856464862 0
 90C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\path-type\readme.md133172737858200523 0
-105C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\packager-html\package.json133172737858060899 0
-88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lines-and-columns133172737856943886 1
 93C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\safe-buffer\index.d.ts133172737858729105 0
 89C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\chrome-trace-event133172737860954466 1
 113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\entities\lib\generated\decode-data-html.js133172737858140681 0
@@ -245,6 +250,8 @@
 83C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lightningcss133172737859188902 1
 88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\parcel\src\bin.js133172737856535823 0
 103C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\htmlnano\docs\versioned_sidebars133172737871767220 1
+105C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\packager-html\package.json133172737858060899 0
+88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lines-and-columns133172737856943886 1
 75C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb133172737879756694 1
 88C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\type-fest\license133172737852859353 0
 120C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133172737864719536 0
@@ -341,9 +348,6 @@
 86C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\posthtml-parser133172737860984392 1
 119C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133172737857302918 0
 115C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\utils\test\input\sourcemap\inline.js133172737871847005 0
-86C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\posthtml-render133172737858429915 1
-87C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\svgo\lib\svgo.js133172737874445743 0
-89C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\utility-types\dist133172737866559745 1
 98C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\workers\src\process133172737868589449 1
 102C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\regions\TD.js133172737898864360 0
 90C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\react-error-overlay133172737862181184 1
@@ -1282,7 +1286,7 @@
 100C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\runtime-react-refresh133172737857452525 1
 119C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\entities\lib\generated\decode-data-html.d.ts.map133172737865118475 0
 108C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\source-map\lib\source-map-consumer.js133172737863407898 0
-80C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist\index.63aff760.js133172858289289450 0
+80C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist\index.63aff760.js133172880990070350 0
 100C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\source-map\lib\source-node.js133172737864155906 0
 94C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\optimizer-image133172737876844482 1
 80C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dist133172737878619719 1
@@ -1308,9 +1312,9 @@
 92C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\safe-buffer\README.md133172737857422598 0
 101C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@jridgewell\trace-mapping\dist133172737862490355 1
 91C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\ansi-styles\index.js133172737854425170 0
+100C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\react-refresh\build-info.json133172737862091423 0
 92C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\resolve-from\index.js133172737854385275 0
 101C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@jridgewell\source-map\LICENSE133172737852759615 0
-100C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\react-refresh\build-info.json133172737862091423 0
 125C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133172737873248943 0
 101C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\regenerator-runtime\runtime.js133172737856065927 0
 92C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\react-refresh\LICENSE133172737852899238 0
@@ -1515,12 +1519,12 @@
 102C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\regions\NA.js133172737894030789 0
 94C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\node-releases\README.md133172737860425897 0
 116C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\promise-finally.js133172737895985574 0
-106C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\node-releases\data\release-schedule133172737858409969 1
-121C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133172737874196407 1
-112C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css-regions.js133172737882585272 0
 123C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\keyboardevent-location.js133172737891068478 0
 105C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133172737869837534 0
 98C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\domutils\lib\stringify.d.ts133172737867876230 0
+106C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\node-releases\data\release-schedule133172737858409969 1
+121C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133172737874196407 1
+112C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css-regions.js133172737882585272 0
 130C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133172737870209691 0
 128C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\node-releases\data\release-schedule\release-schedule.json133172737858629375 0
 112C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\node-gyp-build-optional-packages\index.js133172737856963828 0
@@ -2094,8 +2098,6 @@
 112C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\chromium-versions.js133172737854435138 0
 105C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\cosmiconfig\dist\Explorer.d.ts.map133172737864540021 0
 114C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\chromium-versions.json133172737861702469 0
-117C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\full-chromium-versions.js133172737856355147 0
-106C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\core\test\fixtures\main-mjs133172737881886145 1
 119C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\full-chromium-versions.json133172737862520279 0
 108C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\full-versions.js133172737858629375 0
 104C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\electron-to-chromium\package.json133172737863627326 0
@@ -2858,7 +2860,6 @@
 112C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css3-colors.js133172737883696547 0
 113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css3-cursors.js133172737883776332 0
 116C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\text-decoration.js133172737899043877 0
-113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\css3-tabsize.js133172737883806257 0
 113C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\currentcolor.js133172737883866095 0
 123C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\caniuse-lite\data\features\page-transition-events.js133172737895038097 0
 97C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\@parcel\optimizer-htmlnano133172737860495702 1
@@ -4160,5 +4161,5 @@
 86C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\.bin\semver.ps1133172737903661322 0
 84C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\.bin\svgo.cmd133172737903431935 0
 82C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\node_modules\.bin\terser133172737903352137 0
-84C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist\index.63aff760.js.map133172858289389185 0
+84C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist\index.63aff760.js.map133172880990160089 0
 73C:\Users\LGD\Desktop\JavaScript TIL\02_JS데이터\복습\dist\index.html133172858288272177 0
