@@ -1,5 +1,5 @@
 # 🟡 JavaScript-TIL
-### [(1) Node.js](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
+### [Node.js](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 > * ##### Chrome V8 JavaScript 엔진으로 빌드된 JavaScript 런타임 
 >
@@ -26,7 +26,7 @@ node -v
 
 
 
-### [(2) npm ](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
+### [npm ](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 > * ##### NPM (Node Package Manager)은 전 세계의 개발자들이 만든 다양한 기능(패키지, 모듈)들을 관리 
 
@@ -38,7 +38,7 @@ node -v
 
 
 
-### [ (3) NPM 프로젝트 시작, package.json](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
+### [ NPM 프로젝트 시작, package.json](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 ##### ◼ npm 버전 확인하기 
 
@@ -125,7 +125,7 @@ npm install parcel --save-dev
 
 
 
-### [(4) Parcel, 개발 서버 실행과 빌드 ](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
+### [ Parcel, 개발 서버 실행과 빌드 ](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 ##### ◼ 서버 실행 
 
@@ -187,7 +187,7 @@ const user: User = {
 
 
 
-### [(5) 유의적 버전(Semver)](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
+### [ 유의적 버전(Semver)](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
 #### Semantic Versioning, SemVer
 
@@ -229,3 +229,39 @@ const user: User = {
 > ##### Minor 버전 안에서 가장 최신 버전으로 업데이트 가능 
 >
 > * Patch 버전만 업데이트가 된다. 
+
+
+
+
+
+---
+
+
+
+
+
+### 원시형 - String, Number, Boolean, null, undefined
+
+#### ◼ String 
+
+```javascript
+const string1 = "Hello"
+const string2 = 'Hello'
+const string3 = `Hello`
+```
+
+> `" "` 와 `' '` 는 한 가지를 선택하여 코드를 작성하면 된다. 
+>
+> 하지만 ![image-20230104115603235](../imges/README/image-20230104115603235.png) 표시는 선택의 개념보다는 `보관` 이라는, 어떠한 데이터를 문자데이터 내부에 채워 넣는 용도로 사용할 수 있다. 
+>
+> 보관 처리를 할때는 `Hello ${}` 달러기호와 중괄호를 이용하여 사용 할 수 있고, 중괄호 안에 어떠한 데이터를 채워줄 수 있다. 
+>
+> **🤔 string1 을 채워넣어준다면?** 
+>
+> ```javascript
+> const string3 = `Hello ${string1} ?!`
+> ```
+>
+> ![image-20230104120025666](../imges/README/image-20230104120025666.png)
+>
+> 📚 이렇게, ` 기호를 통해서 문자 데이터를 만드는 방식을  **템플릿 리터럴** 이라고 한다. 
