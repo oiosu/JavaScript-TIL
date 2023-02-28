@@ -76,15 +76,15 @@ npm install lodash
 npm install parcel --save-dev
 ```
 
-> 📚 **parcel : lodash와 같은 패키지들을 실제 웹사이트에 올라갈 수 있는 하나의 구조로 묶어주는 역할을 한다.**
+> 📚 **`parcel` : `lodash`와 같은 패키지들을 실제 웹사이트에 올라갈 수 있는 하나의 구조로 묶어주는 역할을 한다.**
 >
 > ##### 				   : (번들러Bundler) 라고 불린다. 
 >
-> ##### 				   : 묶어주는 것 뿐 실제로 동작하는 것은 아니다. 따라서 뒤에 --save-dev 를 붙여줘야한다. 
+> ##### 				   : 묶어주는 것 뿐 실제로 동작하는 것은 아니다. 따라서 뒤에 `--save-dev` 를 붙여줘야한다. 
 >
-> * ##### 🔥 --save-dev : parcel 를 save 할 것 이다 하지만 dev 개발할 때만 사용될 뿐 실제 웹 브라우저에 동작하는 패키지는 아니다. 
+> * ##### 🔥 `--save-dev` : `parcel` 를 save 할 것 이다 하지만 dev 개발할 때만 사용될 뿐 실제 웹 브라우저에 동작하는 패키지는 아니다. 
 >
-> * ##### parcel --save-dev  와 --save-dev parcel 순서 바꿔서 명령어 입력해도 상관없다
+> * ##### `parcel --save-dev`  와 `--save-dev parcel` 순서 바꿔서 명령어 입력해도 상관없다
 >
 > * ##### 축약형으로 다음과 같이 명령어를 작성 할 수 있다. (대문자 D이어야만 한다.)
 >
@@ -94,11 +94,11 @@ npm install parcel --save-dev
 
 ![image](https://user-images.githubusercontent.com/99783474/210357154-b097b409-81cc-4078-9b20-b2eee0f25ee2.png)
 
-> ### devDependencies (개발 의존성)
+> ### `devDependencies (개발 의존성)`
 >
-> * ##### dev : 개발용 
+> * ##### `dev` : 개발용 
 >
-> * ##### Dependencies : 복수형으로, 의존성이라는 의미를 가지고 있다. 
+> * ##### `Dependencies` : 복수형으로, 의존성이라는 의미를 가지고 있다. 
 >
 > ##### 🤔 의존성???
 >
@@ -112,7 +112,7 @@ npm install parcel --save-dev
 
 
 
-##### ◼ package-lock.json 파일과 package.json 파일이 있기 때문에 node_modules 파일을 지워도 복구가 가능하다. 
+##### ◼ `package-lock.json` 파일과 `package.json` 파일이 있기 때문에 `node_modules` 파일을 지워도 복구가 가능하다. 
 
 > 지운 후에 복구할 경우 다음과 같이 명령어만 입력하면 된다. 
 >
@@ -167,7 +167,7 @@ const user: User = {
 
 
 
-#### 📁 dist (= distribution)
+#### 📁 `dist (= distribution)`
 
 > 실제 서비스가 될 빌드된 결과의 폴더 
 >
@@ -189,13 +189,13 @@ const user: User = {
 
 ### [ 유의적 버전(Semver)](https://github.com/oiosu/JavaScript-TIL/blob/master/01_NodeJS/01.%20Node.js.md)
 
-#### Semantic Versioning, SemVer
+#### `Semantic Versioning`, `SemVer`
 
 #####  프로젝트가 개발되는 특정한 시점 상태에 의미를 부여하여 숫자를 매기는 방법이다. 
 
 ![image](https://user-images.githubusercontent.com/99783474/210357516-ea536ef4-bf3d-41b9-826f-5437fe74257e.png)
 
-#### ✅ Major 4
+#### ✅ `Major 4`
 
 > * **기존 버전과 호환되지 않는 새로운 버전이다.** 
 >   * 여기서, 호환되지 않는다는 점이 중요하다. 
@@ -203,7 +203,7 @@ const user: User = {
 
 
 
-#### ✅ Minor 17
+#### ✅ `Minor 17`
 
 > * **기존 버전과 호환되는 기능이 추가된 버전이다.** 
 >   * Major와 다르게 호환이 된다. 
@@ -211,7 +211,7 @@ const user: User = {
 
 
 
-#### ✅ Patch 21
+#### ✅ `Patch 21`
 
 > * **기존 버전과 호환되는 버그 및 오타 등이 수정된 버전** 
 >   * 기존 버전은 4.17.20 버전임을 알 수 있다. 
