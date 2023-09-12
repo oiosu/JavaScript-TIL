@@ -1,14 +1,10 @@
 ## (1) 참조형 Array
 
-
-
 ```javascript
 const fruits = new Array()
 ```
 
 > `new` 라는 키워드와 함께 호출하는 함수를 **생성자 함수** 라고 하고 자바스크립트 **클래스**라고 한다. 
-
-
 
 ```javascript
 const fruits = new Array('Apple', 'Banana', 'Cherry')
